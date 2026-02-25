@@ -50,7 +50,7 @@ scikit-learn
 matplotlib
 
 # Input Data
-Deposit Label File
+Deposit Label File:
 
 deposit.tif
 
@@ -60,7 +60,7 @@ Binary raster
 
 0 = non-deposit
 
-Simulated Evidence Layers
+Simulated Evidence Layers:
 
 evidence layers.mat
 
