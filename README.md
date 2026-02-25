@@ -1,7 +1,10 @@
 # MPM-uncertainty-quantification
 Uncertainty quantification of deep learning model for mineral prospectivity mapping
+
 This repository provides a deep learning framework for Mineral Prospectivity Mapping (MPM) that integrates both:
+
 Data uncertainty (via stochastic simulation of evidence layers)
+
 Model uncertainty (via Bayesian CNN with Monte Carlo Dropout)
 
 # Overview
